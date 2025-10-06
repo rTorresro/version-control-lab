@@ -1,2 +1,2 @@
 # version-control-lab
-This repo contains a python program that does takes an input, takes in some other input, and does something with this other input.  
+This is a Python program that takes two inputs from the user and then does Something™ with them.
